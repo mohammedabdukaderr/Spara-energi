@@ -1,0 +1,8 @@
+2026-01-26 10:19:13 [INFO] SolOptima server starting up (Week 2 foundation)
+2026-01-26 10:19:13 [INFO] Socket server listening on /tmp/soloptima.sock
+2026-01-26 10:19:13 [INFO] Fetcher spawned (pid=758)
+2026-01-26 10:19:13 [INFO] Server running; press Ctrl+C to stop
+2026-01-26 10:19:13 [INFO] Client connected
+2026-01-26 10:19:13 [INFO] Client disconnected
+2026-01-26 10:19:13 [INFO] Shutdown requested; stopping server
+2026-01-26 10:19:13 [INFO] Terminating fetcher (pid=758)

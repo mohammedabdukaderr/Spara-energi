@@ -17,6 +17,9 @@ void sol_logger_shutdown(sol_logger_t *logger);
 void sol_log_info(sol_logger_t *logger, const char *fmt, ...);
 void sol_log_error(sol_logger_t *logger, const char *fmt, ...);
 
+/* Log an error with the current errno as human-readable text. */
+void sol_log_errno(sol_logger_t *logger, const char *context);
+
 #ifdef __cplusplus
 }
 #endif
