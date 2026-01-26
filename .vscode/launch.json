@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/moham/Spara-energi/Spara-energi/client",
-      "program": "c:/Users/moham/Spara-energi/Spara-energi/client/build/Debug/outDebug",
+      "cwd": "c:/Users/moham/Downloads/energys/Spara-energi/soloptima/src/server",
+      "program": "c:/Users/moham/Downloads/energys/Spara-energi/soloptima/src/server/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
